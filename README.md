@@ -1,4 +1,6 @@
 Patch brailes to Monaco for ASCII arts
+
+
 ## BnA
 <img width="1920" height="1080" alt="Screenshot 2026-03-27 230541" src="https://github.com/user-attachments/assets/400db7f8-b107-4f2e-950b-eb841cc0807c" />
 
@@ -13,6 +15,8 @@ Patch brailes to Monaco for ASCII arts
 
 ## Usage
 with all of the required fonts in one folder, run `patch.sh`
+
+
 alternatively, manually patch each file with
 ```bash
 fontforge -script patch.py <base_font.ttf> <braille_fallback.ttf> <output_name.ttf>
