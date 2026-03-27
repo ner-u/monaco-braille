@@ -5,7 +5,7 @@ Patch brailes to Monaco for ASCII arts
 <img width="1920" height="1080" alt="Screenshot 2026-03-27 230541" src="https://github.com/user-attachments/assets/400db7f8-b107-4f2e-950b-eb841cc0807c" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-28 000250" src="https://github.com/user-attachments/assets/99c7bbe6-e97f-4739-87a4-ff39032da7d1" />
-(dashboard [source](https://github.com/kernelSlvt/dotfiles/blob/main/.config/nvim/lua/plugins/dashboard.lua) )
+(dashboard [source](https://github.com/kernelSlvt/dotfiles/blob/main/.config/nvim/lua/plugins/) )
 
 ## Prerequisites
 - python3 and fontforge
